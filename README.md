@@ -1,2 +1,2 @@
 # machineLearningStudies
-my studies when i'm trying to learn machine learning with real world applications.  
+time to time i will be posting real world applications of machine learning w/ tensorflow 2.x
